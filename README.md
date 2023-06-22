@@ -1,5 +1,8 @@
 <div id="header" aling="center">
-  <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="200" aling="center"/>
+  <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/PvwNfTzHUX9y7ICxiF/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/rC3bHMY2s8w3Fuz6Mm/giphy.gif" width="200"/>
   <h1 align="center"> Hello World ;) , I'm Ronald Tello</h1>
   <h1 align="center"> I'm currently studying Engineering in Telecommunications</h1>
   <h2 align="center"> I'm learning programming in Python and it's a pleasure share my knowledge with you, in DataScience, machine learning and more. 
