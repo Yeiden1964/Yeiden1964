@@ -1,4 +1,13 @@
-### Hi there 👋
+<div id="header" aling="center">
+  <img src="https://media.giphy.com/media/7c8QeB0VMddFOuu4iR/giphy.gif" width="200" />
+  <h1 align="center"> Hello World 👋, I'm Ronald Tello</h1>
+  <h2 align="center"> I'm learning 
+</div> 
+---
+
+  
+### Aboute me:
+- 📫 How to reach me: tupamana.13@gmail.com
 
 <!--
 **Yeiden1964/Yeiden1964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
