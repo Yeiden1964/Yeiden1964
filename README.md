@@ -7,10 +7,15 @@
   <h1 align="center"> I'm currently studying Engineering in Telecommunications</h1>
   <h2 align="center"> I'm learning programming in Python and it's a pleasure share my knowledge with you, in DataScience, machine learning and more. 
 </div> 
----
 
-  
-### Aboute me:
+</a>
+  <div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/ronald-tello-78b3b8280/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=blue" alt="Linkedin Badge"/>
+  </div>
+</a>
+
+### About me:
 - 📫 How to reach me: tupamana.13@gmail.com
 
 <!--
